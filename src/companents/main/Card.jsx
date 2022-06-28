@@ -2,7 +2,7 @@
 
 const Card = (data) => {
     console.log("ne gliyor", data);
-    const {id, title, image, desc} = data;
+    const {title, image, desc} = data;
   return (
     <div className="cards">
         <div className="title">
