@@ -1,4 +1,4 @@
-@import "./scss/reset", "./scss/variables";
+@import './scss/reset', './scss/variables';
 
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
 
@@ -7,11 +7,8 @@
 body{
     background-color: $backgroundColor;
     font-family: 'Amatic SC', cursive;
-  
-    
 }
 
 p{
-
     font-family: 'Hubballi', cursive;
 }
